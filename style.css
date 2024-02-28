@@ -1,0 +1,279 @@
+*{
+	box-sizing:border-box;
+}
+
+body{
+	margin:0;
+	padding:0;
+}
+
+header{
+	
+	width:100%;
+	height:900px;
+}
+
+#banner{
+
+	border:1px solid black;
+	width:100%;
+	height:600px;
+	background-image:url(img/cio-women-in-gym-on-treadmill-by-emirmemedovski-gettyimages-1059616710-100841353-large.jpg);
+	background-size:cover;
+	
+}
+
+#bannerinfo{
+	
+	width:55%;
+	height:200px;
+	margin:auto;
+	margin-top:60px;
+}
+
+#bannerinfo h1{
+	color:white;
+	text-align:center;
+	font-size:35px;
+}
+
+#bannerinfo p{
+	color:white;
+	text-align:center;
+	font-size:18px;
+}
+
+#button{
+	border:1px solid #F34e3a;
+	width:180px;
+	height:50px;
+	margin:auto;
+	background-color:#F34e3a;
+	padding-top:12px;
+	padding-left:10px;
+	margin-top:50px;
+}
+
+#button a{
+	color:white;
+	font-size:20px;
+	text-decoration:none;
+	float:left;
+}
+
+.İconBanner{
+	width:40px;
+	height:40px;
+	float:right;
+	background-image:url(img/742751-200.png);
+	background-size:cover;
+	margin-top:-8px;
+	margin-right:15px; 
+}
+
+#button:hover{
+	background-color:inherit;
+}
+
+#button:hover a{
+	color:#F34e3a;
+}
+
+#button:hover .İconBanner{
+	background-image:url(img/742751-200.png);
+}
+
+#info{
+	width:100%;
+	height:300px;
+	background-color:#29282D;
+	margin-top:300px;
+	padding-top:25px;
+}
+
+#box{
+	
+	width:20%;
+	height:auto;
+	float:left;
+	margin-left:50px;
+}
+
+.İconOne{
+	background-image:url(img/kalp2.png);
+	width:60px;
+	height:60px;
+	background-size:cover;
+	margin:auto;
+}
+
+.İconOne:hover{
+	background-image:url(img/kalpiconpng2.png);
+}
+
+#box h2{
+	color:white;
+	font-size:25px;
+	text-align:center;
+	margin-top:4px;
+}
+
+#box p{
+	color:white;
+	padding:0 20px;
+	font-size:15px;
+}
+
+.İconTwo{
+	background-image:url(img/icon3.png);
+	width:60px;
+	height:60px;
+	background-size:cover;
+	margin:auto;
+}
+
+.İconTwo:hover{
+	background-image:url(img/icon4.png);
+}
+
+.İconThree{
+	background-image:url(img/kopya1.png);
+	width:60px;
+	height:60px;
+	background-size:cover;
+	margin:auto;
+	
+}
+
+.İconThree:hover{
+	background-image:url(img/kopya2.png);
+}
+
+.İconFour{
+	background-image:url(img/play1.png);
+	width:60px;
+	height:60px;
+	background-size:cover;
+	margin:auto;
+	
+}
+
+.İconFour:hover{
+	background-image:url(img/play2.png);
+}
+
+main{
+	
+	width:100%;
+	height:auto;
+}
+
+#sablonlar{
+	
+	width:75%;
+	height:650px;
+	margin:auto;
+	margin-top:50px;
+}
+
+#sablonlar{
+	text-align:center;
+}
+
+.sablon{
+	width:30%;
+	height:450px;
+	background-color:#29282D;
+	float:left;
+	margin-right:31px;
+}
+
+.sablon h1{
+	color:white;
+	text-align:center;
+	margin-top:70px;
+	font-size:45px;
+}
+
+.sablon p{
+	color:#F34e3a;
+	font-size:20px;
+	text-align:center;
+}
+
+.bilgi{
+	border-bottom:1px solid black;
+	width:80%;
+	height:auto;
+	margin:auto
+}
+
+.bilgi h3{
+	color:white;
+}
+
+footer{
+	border:1px solid black;
+	width:100%;
+	height:400px;
+	background-color:#29282D;
+}
+
+#hizala{
+
+	width:74%;
+	height:300px;
+	margin:auto;
+	margin-top:50px;
+}
+
+#footerInfo{
+	float:left;
+	width:50%;
+	height:auto;
+}
+
+#footerInfo ul{
+	list-style-type:none;
+	padding:0;
+	margin:0;
+	margin-bottom:25px;
+}
+
+#footerInfo h1{
+	color:white;
+}
+
+#footerInfo li{
+	color:white;
+	margin-top:8px;
+}
+
+#contact{
+	float:left;
+	width:50%;
+	height:auto;
+}
+
+#contact{
+	color:white;
+}
+
+ form input,textarea{
+	 border:none;
+	 width:60%;
+	 height:40px;
+	 margin-bottom:10px;
+	 background-color:#212121;
+ }
+
+
+
+
+
+
+
+
+
+
+
